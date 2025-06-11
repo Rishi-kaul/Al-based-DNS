@@ -5,10 +5,9 @@ A Node.js DNS server that uses Google's Gemini AI to answer questions via DNS TX
 
 ## 📦 File Structure
 project/
-├── index.js          # Main server implementation
-├── package.json     # Node.js dependencies
-└── README.md        # This file
-
+├── index.js # Main server implementation
+├── package.json # Node.js dependencies
+└── README.md # This file
 
 ## 🚀 Quick Start
 
@@ -68,4 +67,3 @@ lsof -i :8000                # Mac/Linux
 
 ## 📜 License
 MIT License - Use at your own risk for educational purposes
-```
