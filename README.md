@@ -3,11 +3,6 @@
 
 A Node.js DNS server that uses Google's Gemini AI to answer questions via DNS TXT records.
 
-## 📦 File Structure
-project/
-├── index.js # Main server implementation
-├── package.json # Node.js dependencies
-└── README.md # This file
 
 ## 🚀 Quick Start
 
